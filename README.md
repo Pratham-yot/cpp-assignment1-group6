@@ -1,2 +1,11 @@
 # cpp-assignment1-group6
-This repository contains Assignment 1 for Group 6, completed by Pratham yot , arun verma , Gurbaj Singh 
+#C++ Project
+
+ 
+**Group Members:**  
+- Pratham yot 
+- arun verma 
+- gurbaj singh 
+
+**Assignment Details:**  
+This repository contains our first C++ assignment using GitHub Codespaces.  
